@@ -1,4 +1,5 @@
-package com.andrealimachagas.gnomedrawing; /**
+package com.andrealimachagas.gnomedrawing;
+/**
  * Created by andrealimachagas on 3/09/2014.
  */
 import android.graphics.Color;
